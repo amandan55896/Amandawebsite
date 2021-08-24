@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+![alt tag](https://github.com/amandan55896/amandawebsite/issues/1#issue-978461370)
 1. Numbered
 2. List
 
